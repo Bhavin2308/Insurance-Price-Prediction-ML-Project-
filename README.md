@@ -1,4 +1,4 @@
-# Insurance-Price-Prediction-ML-Project
+# Insurance Price Prediction ML Project
 Project Description:
 
 In this particular project, using the insurance.csv dataset that contains information like age, sex, bmi, children, smoker, region, charges etc. and using that need to predict insurance charges. 

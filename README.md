@@ -1,9 +1,9 @@
 # Insurance-Price-Prediction-ML-Project-
 Project Description:
 
-In this particular project, we are using the insurance.csv dataset that contains information like age, sex, bmi, children, smoker, region, charges etc. and using that to predict insurance charges. 
-However, before you go ahead and make a prediction, it is advised that you first pre-process the data, since it may contain some irregularities and noise. 
-In addition, try various tricks and techniques in order to gain the best accuracy in your predictions.
+In this particular project, using the insurance.csv dataset that contains information like age, sex, bmi, children, smoker, region, charges etc. and using that need to predict insurance charges. 
+However, before going ahead and made a prediction, it is needed that first pre-process the data, since it may contain some irregularities and noise. 
+In addition, tried various tricks and techniques in order to gain the best accuracy in predictions.
 
 Column Details:
 
